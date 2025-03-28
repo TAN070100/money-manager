@@ -16,6 +16,6 @@ code {
     monospace;
 }
 button {
-  background-color: blue !important;
+  background-color: lightblue !important;
   color: white; /* Optional: Makes text visible */
 }
